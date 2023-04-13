@@ -1677,6 +1677,10 @@ label {
 .saylovga_oid_video_in__video__item img {
   object-position: center top;
 }
+.saylovga_oid_video_in__video__item iframe {
+  width: 100% !important;
+  height: 100% !important;
+}
 .saylovga_oid_video_in__video__item a {
   width: 100%;
   height: 100%;
